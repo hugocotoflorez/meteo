@@ -1,0 +1,5 @@
+../data/weatherdata-420-72.csv
+../data/weatherdata-420-75.csv
+../data/weatherdata-420-78.csv
+../data/weatherdata-420-81.csv
+../data/weatherdata-420-84.csv
